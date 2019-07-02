@@ -829,12 +829,13 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #footer .copyright {
-  text-align: center;
+  text-align: left;
+  color: greenyellow;
 }
 
 #footer .credits {
   padding-top: 10px;
-  text-align: center;
+  text-align: left;
   font-size: 13px;
-  color: #ccc;
+  color:greenyellow;
 }
